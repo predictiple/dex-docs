@@ -1,0 +1,3 @@
+.List title and top level item
+* xref:ROOT:index.adoc[Home]
+* xref:ROOT:test-page.adoc[Another Page]

@@ -1,0 +1,7 @@
+= DEX Overview
+:description: A description of the page stored in an HTML meta tag. This page is \
+about all kinds of interesting things.
+:keywords: comma-separated values, stored, in an HTML, meta, tag
+
+DEX is a cloud-based DFIR evidence collection, data extraction and data preparation system. 
+
